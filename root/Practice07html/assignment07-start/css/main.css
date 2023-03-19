@@ -1,0 +1,63 @@
+body {
+text-align: center;
+padding: 1em;
+width: 500px;
+height: 400px;
+font-family: cursive;
+opacity: .9;
+color: white;
+}
+
+h1 {
+font-size: 49px;
+color:#25e95d ;
+font-family: verdana;
+text-shadow: 5px 5px 10px #c316b7;
+}
+h3 {
+  text-decoration: underline;
+  font-size: 30px;
+  color: #07348b;
+  font-style: italic;
+  text-decoration-style: wavy;
+  font-family: fantasy;
+text-shadow: 5px 5px 5px pink;
+}
+
+a:link {
+  color:#fc12ad;
+}
+
+a:visited {
+  color:darkgreen;
+}
+a:hover{
+  color:yellow;
+}
+a:active {
+  color:purple;
+}
+
+a.button:link {
+  background-color: navy;
+}
+
+.firstp {
+  font-size: 20px;
+}
+
+.Oct {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: verdana;
+}
+.River {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: verdana;
+}
+.flyer {
+background-image: url(../images/back.jfif);
+    border: 8px solid #191acd;
+    background-attachment: fixed;
+}

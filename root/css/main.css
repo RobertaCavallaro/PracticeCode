@@ -1,0 +1,48 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  color: #fff;
+  background-color: #8cd7fc;
+}
+article {
+  border: dotted 8px silver;
+  padding: 15px;
+  margin: 30px;
+  width:600px;
+  color: #fff;
+  background-color: #1666d0;
+  text-align: center;
+}
+h1 {
+  font-size: 4em;
+  text-shadow: 1px 1px 4px #7bd0f0, -8px -9px 20px #ccc, 8px 9px 20px #929ce0, -1px -1px 10px #7bd0f0;
+  color: #ccf1fc;
+}
+p.sHead, h3{
+  font-weight: normal;
+  font-style: italic;
+  font-family: Georgia, serif;
+  line-height: 1;
+}
+h3.uLine {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+.uCase {
+  text-transform: uppercase;
+}
+a {
+  font-weight: bold;
+}
+a:link {
+  color: silver;
+}
+a:visited  {
+  color: #ccc;
+}
+a:hover {
+  color: #f0ef78;
+  text-decoration: none;
+}
+a:active {
+  color: #dd951a;
+}
